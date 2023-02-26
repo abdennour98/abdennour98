@@ -4,9 +4,7 @@
 
 - 🔭 Data Engineer
 - 🏃Data Science  Enthusiast
-<br>
-<br>
-## learning Path
+
 <br>
 <br>
 ## Languages and tools
@@ -16,6 +14,9 @@
 
 <br>
 
+## learning Path
+<br>
+<br>
 ## Projects
 ### Data Engineering
 
