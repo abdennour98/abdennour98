@@ -4,4 +4,4 @@
 
 - 🔭 Data Engineer
  -🏃🏻 Data Science  Enthusiast
- - 🔭 Data Engineer
+ - 🏃Data Engineer
