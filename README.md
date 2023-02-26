@@ -14,7 +14,7 @@
 
 <br>
 
-## learning Path
+## Learning Path
 <br>
 <br>
 
