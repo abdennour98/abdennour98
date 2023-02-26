@@ -3,5 +3,4 @@
 ### Data scientist living in Morocco
 
 - 🔭 Data Engineer
- -🏃🏻 Data Science  Enthusiast
- - 🏃Data Engineer
+- 🏃Data Science  Enthusiast
