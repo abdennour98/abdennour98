@@ -9,5 +9,6 @@
 
 ### Languages and tools
 
-![python](https://user-images.githubusercontent.com/58523013/221417144-6dd9cc2e-9845-429c-96ad-be9a65b4b6f6.png)
 
+
+![python (1)](https://user-images.githubusercontent.com/58523013/221417175-ee382bcb-694d-4980-b6dc-6ebbbbbc31b8.png)
