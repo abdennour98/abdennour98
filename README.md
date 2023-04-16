@@ -18,8 +18,7 @@
 ![icons8-google-cloud-48 (1)](https://user-images.githubusercontent.com/58523013/221426431-9836dc32-8faa-4a68-b287-03b3ef81c679.png)
 ![icons8-docker-48](https://user-images.githubusercontent.com/58523013/221428281-7a82f378-8c91-4d85-b505-5092ae3d021a.png)
 <br>
-![google_bigquery_logo_icon_168150 (4)](https://user-images.githubusercontent.com/58523013/232322518-d39b79f3-3f3f-4430-aa8f-0697de62c6d8.png)
-<a href='https://cloud.google.com/bigquery/docs'>Big Query</a>
+<a href='https://cloud.google.com/bigquery/docs'>![google_bigquery_logo_icon_168150 (4)](https://user-images.githubusercontent.com/58523013/232322518-d39b79f3-3f3f-4430-aa8f-0697de62c6d8.png)</a>
 
 
 
