@@ -1,6 +1,6 @@
 ### Hi there👋
 
-### Data scientist living in Morocco
+### Data Engineer living in Morocco
 
 - 🔭 Data Engineer
 - 🏃Data Science  Enthusiast
@@ -22,7 +22,7 @@
 
 ## Projects
 ### Data Engineering
-
+<a href="https://github.com/abdennour98/DevOps"> DevOps</a>
 ### Data Science
 
 
