@@ -17,7 +17,8 @@
  <a href="https://hadoop.apache.org/docs/stable/">![apache_hadoop_logo_icon_169586 (1)](https://user-images.githubusercontent.com/58523013/221418039-1604ce94-51a8-4003-8d94-ad0430b264cc.png)
 <a href="https://cloud.google.com/docs">![icons8-google-cloud-48 (1)](https://user-images.githubusercontent.com/58523013/221426431-9836dc32-8faa-4a68-b287-03b3ef81c679.png)</a>
 <a href="https://docs.docker.com/">![icons8-docker-48](https://user-images.githubusercontent.com/58523013/221428281-7a82f378-8c91-4d85-b505-5092ae3d021a.png)</a>
-<a href='https://cloud.google.com/bigquery/docs'>![google_bigquery_logo_icon_168150 (4)](https://user-images.githubusercontent.com/58523013/232322518-d39b79f3-3f3f-4430-aa8f-0697de62c6d8.png)</a>
+<a href='https://cloud.google.com/bigquery/docs'>![google_bigquery_logo_icon_168150 (5)](https://user-images.githubusercontent.com/58523013/232323170-e5337b03-3550-462a-9848-ba70b9f679a0.png)
+</a>
 
 
 
