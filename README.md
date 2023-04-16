@@ -17,7 +17,8 @@
 ![apache_hadoop_logo_icon_169586 (1)](https://user-images.githubusercontent.com/58523013/221418039-1604ce94-51a8-4003-8d94-ad0430b264cc.png)
 ![icons8-google-cloud-48 (1)](https://user-images.githubusercontent.com/58523013/221426431-9836dc32-8faa-4a68-b287-03b3ef81c679.png)
 ![icons8-docker-48](https://user-images.githubusercontent.com/58523013/221428281-7a82f378-8c91-4d85-b505-5092ae3d021a.png)
-![google_bigquery_logo_icon_168150 (1)](https://user-images.githubusercontent.com/58523013/232322117-8b432c34-88df-4fb5-9d34-6b6aa82e4bae.png)
+![google_bigquery_logo_icon_168150 (2)](https://user-images.githubusercontent.com/58523013/232322144-d888460b-837d-4a9c-a097-6cd2beaba703.png)
+
 
 
 <br>
