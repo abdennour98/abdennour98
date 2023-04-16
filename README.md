@@ -25,7 +25,7 @@
 
 ### Data warhouse
 
-<a href="https://github.com/abdennour98/Data Warehouse Concepts"> Data Warehouse concepts</a>
+<a href="github.com/abdennour98/Data-Warehouse-Concepts"> Data Warehouse concepts</a>
 
 ### DevOps
 <a href="https://github.com/abdennour98/DevOps"> Docker and Terraform</a>
