@@ -20,13 +20,13 @@
 <br>
 <br>
 
-## Projects
-### Data Engineering
-####DevOps
+# Projects
+## Data Engineering
+### DevOps
 <a href="https://github.com/abdennour98/DevOps"> Docker and Terraform</a>
-####Data Orchestration
+### Data Orchestration
 <a href="https://github.com/abdennour98/Prefect"> Prefect</a>
-### Data Science
+
 
 
 
